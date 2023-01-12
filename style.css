@@ -1,0 +1,17 @@
+.wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.center-block {
+    width: 80%;
+    background-color: #e3f8fd;
+    /* height: 100px; */
+}
+
+.card {
+    background-color: #e1a0b1;
+    height: 95vh;
+    margin: 10px;
+}
